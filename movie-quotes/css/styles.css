@@ -1,0 +1,22 @@
+h1 {
+	color: red;
+	font-family: sans-serif;
+}
+section {
+	font-family: "sans-serif"
+}
+header {
+	text-align: center;
+}
+body {
+	background-color: lightgray;
+}
+p {
+	margin-left: 75px;
+}
+em {
+	color:white;
+}
+em.instruction {
+	color: red;
+}
