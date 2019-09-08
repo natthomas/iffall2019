@@ -1,0 +1,61 @@
+header {
+	text-align:center;
+	color: white;
+	font-family: sans-serif;
+}
+a {
+	color: white;
+}
+
+body {
+	background-image: url(evergreen.background.jpg);
+	font-family: Georgia, serif;
+}
+
+em {
+	color: chocolate;
+}
+
+
+
+p.verse1 {
+	margin-left: 30%;
+	color: white;
+	font-size: 16pt;
+}
+
+p.prechorus1 {
+	margin-left: 30%;
+	color:white;
+	font-size: 16pt;
+}
+
+p.chorus {
+	text-align:right;
+	margin-right: 30%;
+	color:white;
+	font-size: 18pt;
+}
+
+p.verse2 {
+	margin-left: 30%;
+	color: white;
+	font-size: 16pt;
+}
+
+p.prechorus2 {
+	margin-left: 30%;
+	color:white;
+	font-size: 16pt;
+}
+
+p.bridge {
+	margin-left: 30%;
+	color:white;
+	font-size: 16pt;
+}
+
+footer {
+	text-align: center;
+	color: white;
+}
