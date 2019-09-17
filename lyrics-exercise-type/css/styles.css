@@ -1,0 +1,77 @@
+header {
+	text-align:center;
+	color: white;
+	font-family: sans-serif;
+	font-size: 18pt;
+}
+h3{
+	font-size: 16pt;
+}
+a {
+	color: chocolate;
+	font-style: italic;
+}
+
+body {
+	background-image: url(smoke1.background.jpg) ;
+
+	font-family: 'Raleway', sans-serif;
+	line-height: 1.2;
+	letter-spacing: 0.3;
+	font-size: 18pt;
+	font-weight: 400;
+}
+
+em {
+	color: chocolate;
+	font-style: italic;
+}
+
+em.fireonfire{
+	font-style: italic;
+	font-weight: 400;
+	color: chocolate;
+}
+
+p.verse1 {
+	margin-left: 30%;
+	color: white;
+	font-size: 1em;
+}
+
+p.prechorus1 {
+	margin-left: 30%;
+	color:white;
+	font-size: 1em;
+}
+
+p.chorus {
+	text-align:right;
+	margin-right: 30%;
+	color:white;
+	font-size: 1em;
+}
+
+p.verse2 {
+	margin-left: 30%;
+	color: white;
+	font-size: 1em;
+}
+
+p.prechorus2 {
+	margin-left: 30%;
+	color:white;
+	font-size: 1em;
+}
+
+p.bridge {
+	margin-left: 30%;
+	color:white;
+	font-size: 1em;
+}
+
+footer {
+	text-align: center;
+	color: white;
+	font-size: 16pt;
+}
