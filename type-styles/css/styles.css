@@ -1,0 +1,89 @@
+body{
+	font-family: sans-serif;
+}
+
+h1 {
+	font-size: 32pt;
+}
+
+h2 {
+	font-size: 24pt;
+}
+
+div.tags {
+	margin-left: 20pt;
+	line-height: 1.5;
+}
+
+
+strong.csstag {
+	background-color: lightblue;
+	font-style: normal;
+	font-weight: normal;
+	font-family: monospace;
+	font-size: 20pt;
+}
+
+strong.example{
+	font-size: 18pt;
+	font-weight: normal;
+}
+
+em.bold {
+	font-weight: bold;
+	font-style: normal;
+}
+
+em.italic {
+	font-style: italic;
+}
+
+em.oblique {
+	font-style: oblique;
+}
+
+em.stretch {
+	letter-spacing: 0.1em;
+	font-style: normal;
+}
+
+em.long {
+	letter-spacing: 1em;
+	font-style: normal;
+}
+
+em.lowercase {
+	text-transform: lowercase;
+	font-style: normal;
+}
+
+em.uppercase {
+	text-transform: uppercase;
+	font-style: normal;
+}
+
+em.capitalize {
+	text-transform: capitalize;
+	font-style: normal;
+}
+
+em.underline {
+	text-decoration: underline;
+	font-style: normal;
+}
+
+em.overline {
+	text-decoration: overline;
+	font-style: normal;
+}
+
+em.linethrough {
+	text-decoration: line-through;
+	font-style: normal;
+}
+
+
+
+
+
+
