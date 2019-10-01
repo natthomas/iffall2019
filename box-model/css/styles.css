@@ -1,0 +1,114 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Archivo Narrow', sans-serif;
+}
+
+section.first {
+	width: 100%;
+	padding: 20px;
+	box-sizing: border-box;
+	height: 480px;
+	display: block;
+	background-image: url("housescollage.jpg");
+	background-size: contain;
+
+}
+
+h1 {
+	margin-bottom: 0;
+}
+
+section.first>:first-child {
+	text-align: center;
+	margin-top: 130px;
+	font-size: 40pt;
+	margin-bottom: 0px;
+	color: crimson;
+}
+section.first div+div {
+	text-align: center;
+	font-size: 22.5pt;
+	font-weight: bold;
+	color: black;
+}
+
+section.second {
+	width: 100%;
+	padding:5px;
+	box-sizing: border-box;
+	height: 713px;
+	display: block;
+	background-color:lightgrey;
+}
+
+section.second>:first-child {
+	text-align: center;
+	margin: 0 0 32px 0;
+	font-size: 20pt;
+	margin-bottom: 0px;
+}
+h2{
+	margin-bottom: 0px;
+}
+section.second div+div {
+	text-align: left;
+	font-size: 18px;
+	letter-spacing: -.4px;
+	padding: 50px;
+	display: block;
+	margin-top: 0;
+	margin: auto;
+	width: 959px;
+	font-weight: 600;
+
+
+}
+img {
+	width: 400px;
+	height: 300px;
+	float: right;
+	margin-left: 28px;
+	margin-bottom: 37;
+	margin-top: 0;
+}
+
+/*section>div {
+	margin-top: 200px;
+}*/
+/*or section > :first-child*/
+
+div {
+/*	background-color: rgba(255,220,100,.5);*/
+	/*margin: 100px 50px 100px 50px;*/
+	/*top right bottom left - if you only provide 2 itll be top/bottom left/right*/
+	/*height: 200px;*/
+	/*you are now in charge of the height of the box - if there is too much text
+	it will spill out the bottom - remove the height itll fit to the size of the content*/
+/*	margin: 20px auto;
+	width: 500px;*/
+	/*% of the container if you use percent, but you can also do it with auto margins*/
+/*	max-width: 700px;
+	padding: 1em 2em;*/
+	/*padding is for margins within box for text*/
+/*	box-sizing: content-box;*/
+	/*content-box is if you care more about the sizing around the content and
+	border-box is for if you want to size from the outside of the block element in*/
+	/*overflow: scroll;*/
+	/*hidden (itll just cut off your text) scroll (dont do that apparently lol)*/
+/*	display:block;*/
+	/*none of the box-model styling applies if it's inline so make it inline-block, 
+	so the blocks will flow in line depending on the size of your browser*/
+	/*be careful of doubling of the margins when a block goes down - it doesn't do this 
+	if its just display: block*/
+	/*if theres that white space at the top of the page, its because of the top margin*/
+
+}
+
+/*div:after {
+	content: "POW";
+	display: block;
+	clear: both;*/
+	/*clear: left, clear: right, clear: both - will clear any floated element*/
+
+
