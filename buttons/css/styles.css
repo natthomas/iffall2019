@@ -1,0 +1,316 @@
+a#btn_facebook {
+display: block;
+width: 100px;
+height: 100px;
+box-sizing: border-box;
+border-radius: 5px;
+margin: auto;
+margin-top: 75px;
+padding-top: 8px;
+background-color: #3b5998;
+color: #fff;
+text-align: center;
+font-size: 60px;			
+}
+
+a#btn_facebook:hover {
+	background-color: #fff;
+	color: #3b5998;
+}
+
+a#btn_instagram {
+display: block;
+width: 100px;
+height: 100px;
+box-sizing: border-box;
+border-radius: 20px;
+margin: auto;
+margin-top: 75px;
+padding-top: 8px;
+color: black;
+text-align: center;
+font-size: 60px;
+}
+
+a#btn_instagram:hover {
+	background: linear-gradient(45deg, #feda77 0%,#f58529 19%,#dd2a7b 49%,#8134af 86%,#515bd4 100%);
+	color: white;
+}
+
+a#btn_npr{
+display: block;
+width: 100px;
+height: 90px;
+box-sizing: border-box;
+margin: auto;
+margin-top: 75px;
+padding-top: 8px;
+color: white;
+text-align: center;
+font-size: 50px;
+text-decoration: none;
+background-color: #F15B1C;
+font-weight: bold;
+}
+
+a#btn_npr:hover{
+box-shadow: 10px 10px 0px #4C85C5;
+}
+
+a#btn_apple {
+display: block;
+width: 100px;
+height: 100px;
+box-sizing: border-box;
+border-radius: 5px;
+margin: auto;
+margin-top: 75px;
+padding-top: 8px;
+background-color: #505050;
+color: white;
+text-align: center;
+font-size: 60px;			
+}
+
+a#btn_apple:hover{
+	color: lightgrey;
+	transition: 0.5s
+}
+
+a#btn_cartoonnetwork{
+display: inline-block;
+margin:auto;
+margin-top: 20%;
+padding: 25px 16px;
+background-color: #00aeef;
+}
+
+a#btn_cartoonnetwork:hover{
+background-color:#fff000;
+box-shadow: 10px 10px 0px #ed008c;
+}
+
+a#btn_hsn{
+display: block;
+width: 120px;
+height: 120px;
+box-sizing: border-box;
+border-radius: 50%;
+margin: auto;
+margin-top: 75px;
+padding-top: 25px;
+color: white;
+text-align: center;
+font-size: 50px;
+text-decoration: none;
+background-color: #4C85C5;
+font-weight: bold;
+}
+
+a#btn_hsn:hover{
+transform: scale(1.2);
+transition: 0.5s;
+}
+
+
+a#btn_newyorker{
+display: inline-block;
+margin:auto;
+margin-top: 30%;
+padding: 25px 16px;
+background-color: #fff000;
+}
+
+img#img_newyorker{
+height: 50px;
+}
+
+a#btn_newyorker:hover{
+transform: scale(1.2);
+}
+
+a#btn_ibm{
+display: inline-block;
+margin:auto;
+margin-top: 30%;
+padding: 25px 16px;
+background-color: black;
+}
+
+a#btn_ibm:hover{
+box-shadow: -10px 10px 0px #F15B1C;
+}
+
+img#img_ibm{
+height:50px;
+}
+
+a#btn_oldnavy{
+display: block;
+width: 200px;
+height: 60px;
+box-sizing: border-box;
+border-radius: 80%;
+margin: auto;
+margin-top: 90px;
+padding-top: 9px;
+color: #163E69;
+text-align: center;
+font-size: 30px;
+text-decoration: none;
+font-weight: bold;
+}
+
+a#btn_oldnavy:hover{
+color: white;
+background-color: #163E69;
+}
+
+a#btn_nike{
+display: inline-block;
+margin:auto;
+margin-top: 20%;
+padding: 15px 16px;
+font-family: 'Roboto', sans-serif;
+text-transform:oblique;
+text-decoration: none;
+color: black;
+font-weight:900;
+font-size: 50px;
+}
+
+a#btn_nike:hover{
+text-shadow: 2px 2px 0px red;
+}
+
+img#img_nike{
+height:50px;
+}
+
+a#btn_moo{
+display: block;
+width: 120px;
+height: 120px;
+box-sizing: border-box;
+border-radius: 60px;
+border-top-right-radius: 0px;
+margin: auto;
+margin-top: 75px;
+padding-top: 32px;
+color: white;
+text-align: center;
+font-size: 40px;
+text-decoration: none;
+background-color: #006600;
+text-transform: uppercase;
+font-family: 'Nunito', sans-serif;
+}
+
+a#btn_moo:hover{
+background-color: #004400;
+}
+
+a#btn_colorrun{
+display: block;
+width: 160px;
+height: 160px;
+box-sizing: border-box;
+margin: auto;
+margin-top: 50px;
+padding-top: 18px;
+padding-left:15px;
+color: white;
+text-align: left;
+font-size: 40px;
+text-decoration: none;
+background-color: #0FDEBD;
+font-weight: 400;
+line-height:1;
+}
+
+a#btn_colorrun:hover{
+background-color:#ed008c;
+color:gold;
+}
+
+a#btn_lyft{
+display: block;
+width: 160px;
+height: 60px;
+box-sizing: border-box;
+border-radius: 30px;
+margin: auto;
+margin-top: 90px;
+padding-top: 0px;
+color: white;
+text-align: center;
+font-size: 40px;
+text-decoration: none;
+background-color: #ed008c;
+font-weight: bold;
+}
+
+a#btn_lyft:hover{
+background-color: white;
+color: #ed008c;
+border-top: 5px;
+box-shadow: -10px 10px 0px #ed008c;
+}
+
+a#btn_ideo{
+display: block;
+width: 150px;
+height: 150px;
+box-sizing: border-box;
+margin: auto;
+margin-top: 50px;
+padding-top: 5px;
+color: white;
+text-align: center;
+font-size: 50px;
+text-decoration: none;
+background-color: white;
+font-weight: bold;
+}
+
+a#btn_ideo:hover{
+background-color: #C9E9E5;
+transform: scale(1.1);
+}
+
+img#img_ideo{
+height:140px;
+}
+
+a#btn_cocacola{
+display: block;
+width: 210px;
+height: 210px;
+box-sizing: border-box;
+border-radius:50%;
+padding-top:7px;
+margin: auto;
+margin-top: 30px;
+color: white;
+text-align: center;
+font-size: 50px;
+text-decoration: none;
+background-color: white;
+font-weight: bold;
+}
+
+a#btn_cocacola:hover{
+transform: rotate(20deg);
+background-color:lightgrey;
+}
+
+img#img_cocacola{
+height:200px;
+}
+
+
+
+
+
+
+
