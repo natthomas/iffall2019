@@ -1,0 +1,52 @@
+html,body{
+	margin: 0pt;
+	padding: 0pt;
+	height: 100%;
+	font-family: 'Source Code Pro', monospace;
+	color: white;
+}
+
+h1 {
+	font-weight: 400;
+	font-size: 23px;
+}
+
+h2 {
+	text-align: right;
+	font-weight: 400;
+	font-size: 23px;
+}
+
+em{
+	font-weight: 700;
+	font-style: normal;
+}
+
+section{
+	padding: 0pt;
+	margin: 0pt;
+}
+
+a{
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	z-index: 1;
+	background-color: rgba(255,255,222,.1);
+}
+div.postcard{
+	position: absolute;
+	z-index: 10;
+}
+
+@media (max-width: 640px) {
+	
+
+	h1 {
+		font-size: 18px;
+	}
+
+	h2 {
+		font-size: 18px;
+	}
+}
