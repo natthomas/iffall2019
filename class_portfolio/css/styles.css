@@ -1,0 +1,86 @@
+body {
+	color: #333;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+#main_content {
+	text-align: center;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+h1.title{
+	font-size: 30px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+div.project_buttons {
+	border: 1px solid #ddd;
+	margin: 0 10px 10px 0;
+	padding: 20px;
+	width: 700px;
+	height: 550px;
+	display: inline-block;
+	overflow: hidden;
+	box-sizing: border-box;
+	text-align: center;
+}
+
+img#img_buttons{
+	width: 650px;
+}
+
+div.project_recipe {
+	border: 1px solid #ddd;
+	margin: 0 10px 10px 0;
+	padding: 20px;
+	width: 700px;
+	height: 825px;
+	display: inline-block;
+	overflow: hidden;
+	box-sizing: border-box;
+	text-align: center;
+			}
+
+img#img_recipe{
+	height: 650px;
+}
+
+div.project_postcard {
+	border: 1px solid #ddd;
+	margin: 0 10px 10px 0;
+	padding: 20px;
+	width: 700px;
+	height: 550px;
+	display: inline-block;
+	overflow: hidden;
+	box-sizing: border-box;
+	text-align: center;
+			}
+
+img#img_postcard{
+	width: 650px;
+}
+
+div.project_microsite {
+	border: 1px solid #ddd;
+	margin: 0 10px 10px 0;
+	padding: 20px;
+	width: 700px;
+	height: 550px;
+	display: inline-block;
+	overflow: hidden;
+	box-sizing: border-box;
+	text-align: center;
+	vertical-align: top;
+			}
+
+img#img_microsite{
+	width: 650px;
+}
+
