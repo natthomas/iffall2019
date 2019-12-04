@@ -1,0 +1,41 @@
+			div.coldplay {
+				color: #F1FF00;
+				font-family: caslons-egyptian, sans-serif;
+				font-weight: 800;
+				font-size: 85px;
+				display: inline-block;
+				text-decoration: none;
+				margin-left: 10px;
+			}
+			div.coldplay a{
+				text-decoration: none;
+				color: #F1FF00;
+			}
+			div.coldplay a:visited{
+				text-decoration: none;
+				color: #F1FF00;
+			}
+
+			div.navbar {
+				display: inline-block;
+				color: white;
+				text-decoration: none;
+				font-family: caslons-egyptian, sans-serif;
+				font-weight: 800;
+				font-style: normal;
+				font-size: 20px;
+				margin-left: 10px;
+			}
+			div.navbar a{
+				text-decoration: none;
+				color: white;
+			}
+			div.navbar a:visited{
+				text-decoration: none;
+				color: white;
+			}
+
+			div.navbar a:hover{
+				text-decoration: none;
+				color: #F1FF00;
+			}
